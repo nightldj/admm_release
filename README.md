@@ -22,7 +22,7 @@ We provide ADMM-based solvers for various applications, include
 + exemplar nonconvex problems: eigenvalue problem
 + exemplar nonconvex problems: phase retrieval
 
-You can also check our repository for applying ADMM to neural networks ([ICML'16](https://gitlab.umiacs.umd.edu/tomg/admm_nets)).
+You might also be interested to check our repository for applying ADMM to neural networks ([ICML'16](https://gitlab.umiacs.umd.edu/tomg/admm_nets)), and tensor ([NeurIPS workshop'16](https://github.com/nightldj/tensor_notf))
 
 
 ## Convergence rate
